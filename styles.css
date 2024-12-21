@@ -1,0 +1,35 @@
+
+
+
+
+
+
+@font-face {
+   font-family: untold;
+   src: url(untoldhistoryboldinky.otf);
+}
+
+.members {
+    display: flex;
+    flex-wrap: wrap;
+    text-align: center;
+}
+    
+.imag {
+    margin: 10px;
+    font-family: untold;
+}
+
+.imag img {
+    width: 100px;
+    height: auto;
+}
+
+
+.titleInfo {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-family: untold;
+}
+
